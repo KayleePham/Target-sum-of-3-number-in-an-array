@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Project1 {
+public class TargetSumOf3 {
     private static Scanner scan;
 
     public static void main(String[] args) throws FileNotFoundException {
